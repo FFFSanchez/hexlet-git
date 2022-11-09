@@ -1,1 +1,0 @@
-'Thisfrom Hexlet by FFF' 
